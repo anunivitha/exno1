@@ -21,37 +21,15 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-          
-           ![Screenshot 2024-08-17 110901](https://github.com/user-attachments/assets/2c3b4403-8d6c-438f-9521-5a3f7361cc2c)
-           ![Screenshot 2024-08-17 110918](https://github.com/user-attachments/assets/c7c63f2a-8058-4ccf-9e4a-82b52e293c2d)
-           ![Screenshot 2024-08-17 110932](https://github.com/user-attachments/assets/47d56e95-586b-403d-9519-7f62c0e3b76a)
-           ![Screenshot 2024-08-17 110944](https://github.com/user-attachments/assets/5d6aba99-9b13-48f4-9f9d-0595489eebf7)
-           ![Screenshot 2024-08-17 111001](https://github.com/user-attachments/assets/7c1815e9-99c7-4c45-b529-cb5bc7f51c1b)
-           ![Screenshot 2024-08-17 111219](https://github.com/user-attachments/assets/237e608c-1b4a-4701-8f5a-1bc1935df7ac)
-           ![Screenshot 2024-08-17 111231](https://github.com/user-attachments/assets/ff8af0dd-8575-4ee0-9fb7-66d7635d724c)
-           ![Screenshot 2024-08-17 111246](https://github.com/user-attachments/assets/3b1eeefb-8899-45a8-a2d7-9896afc30207)
-```
 
-```
-
-
-           
-![leo png](https://github.com/user-attachments/assets/3cbef647-4931-4e00-b1d5-811b57b452cb)
-
-
-
-           
-
-
-
-
-
-
-
-
-
-
-
+![Screenshot 2024-08-17 110901](https://github.com/user-attachments/assets/4064484a-6303-4155-ab73-c2c7904efe9d)
+![Screenshot 2024-08-17 110918](https://github.com/user-attachments/assets/bf8dc703-ec87-40a0-8e0a-00afb02f75f7)
+![Screenshot 2024-08-17 110932](https://github.com/user-attachments/assets/40ff2fbe-109e-4669-bd5e-29ac6291a2dc)
+![Screenshot 2024-08-17 110944](https://github.com/user-attachments/assets/4a11bdad-6aae-495a-b81a-bdd3f7013137)
+![Screenshot 2024-08-17 111001](https://github.com/user-attachments/assets/3a4ff512-100f-4cff-b54b-6abc1cadc514)
+![Screenshot 2024-08-17 111219](https://github.com/user-attachments/assets/1b3d5d0b-f79c-41e2-a612-6bff08287d2a)
+![Screenshot 2024-08-17 111231](https://github.com/user-attachments/assets/d0ec4167-0346-4bd5-8ad5-6670d3dba108)
+![Screenshot 2024-08-17 111246](https://github.com/user-attachments/assets/69fd0342-f6f1-4d22-aefd-1b7de5c8efc3)
 
 # Result
 Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method.

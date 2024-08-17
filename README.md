@@ -36,6 +36,7 @@ STEP 6: Use zscore of to remove outliers
 
 
            
+![leo png](https://github.com/user-attachments/assets/3cbef647-4931-4e00-b1d5-811b57b452cb)
 
 
 
